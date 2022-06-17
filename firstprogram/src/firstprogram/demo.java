@@ -1,10 +1,10 @@
 package firstprogram;
 
 public class demo {
-
-	public static void main(String[] args) {
 	
-System.out.println("Capgemini");
+	public static void main(String[] args) {
+		
+System.out.println("Akki baby");
 
    }
 } 
